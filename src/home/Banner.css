@@ -1,0 +1,46 @@
+#imagen1:before {
+    top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.6);
+    content:'';
+      position: absolute;
+  }
+  
+  #imagen2:before {
+    top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.6);
+    content:'';
+      position: absolute;
+  }
+  
+  #imagen3:before {
+    top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.6);
+    content:'';
+      position: absolute;
+  }
+  
+  #imagen4:before {
+    top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.6);
+    content:'';
+      position: absolute;
+  }
+  
+  #imagenes h1{
+    font-size: 80px;
+      color: #fff;
+    font-weight: bold;
+  }
+  
